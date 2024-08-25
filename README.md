@@ -2,7 +2,7 @@
 A browser-based all-in-one School management software designed for schools and colleges, comprising of School Management module, Admission module, Staff/Teachers module, Fee module, Online Payment module, Examination module,Attendance module, Students Information module,Accounting module, Parent/Students Portal, Students Application Portal, Library module, Document Management module, Human Resource module, SMS/Email Communication module and many others useful modules that makes school management easy and efficient 
 
 
-# Intalation and Usage
+# Installation and Usage
 Download and study the included Documentation PDF file for detailed step-by-step guide on installation and usage. 
 
 # Core Features
